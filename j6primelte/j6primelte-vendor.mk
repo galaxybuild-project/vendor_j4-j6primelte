@@ -27,3 +27,4 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/j6primelte/proprietary/vendor/lib/libsynaFpSensorTestNwd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsynaFpSensorTestNwd.so \
 	vendor/samsung/j6primelte/proprietary/vendor/lib/libyasalgo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libyasalgo.so \
 	vendor/samsung/j6primelte/proprietary/vendor/lib/libmmcamera2_sensor_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_sensor_modules.so
+	vendor/samsung/j6primelte/proprietary/vendor/lib/fingerprint.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/fingerprint.default.so
